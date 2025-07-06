@@ -368,37 +368,6 @@ mypy src/
 
 </details>
 
-## 🚨 Troubleshooting
-
-<details>
-<summary>❗ Common Issues & Solutions</summary>
-
-### **Twitter API Rate Limiting**
-```bash
-Error: Rate limit exceeded (429)
-Solution: Implement exponential backoff, check rate limit headers
-```
-
-### **OpenAI API Errors**
-```bash
-Error: Invalid API key / Usage limit exceeded
-Solution: Verify API key in .env, check billing dashboard
-```
-
-### **Database Connection Issues**
-```bash
-Error: Could not connect to PostgreSQL
-Solution: Check DATABASE_URL, ensure PostgreSQL is running
-```
-
-### **Memory/Performance Issues**
-```bash
-Error: High memory usage during data processing
-Solution: Implement batch processing, increase swap space
-```
-
-</details>
-
 ## 📚 API Documentation
 
 <details>
@@ -420,42 +389,6 @@ curl -X GET http://localhost:8000/trends/latest
 
 # Example: Health check
 curl -X GET http://localhost:8000/health
-```
-
-</details>
-
-## 🔥 Advanced Features
-
-<details>
-<summary>⚡ Power User Features</summary>
-
-### **Custom Trend Tracking**
-```python
-# Track specific technologies
-CUSTOM_TRENDS = {
-    "frameworks": ["react", "vue", "angular", "svelte"],
-    "languages": ["rust", "go", "typescript", "python"],
-    "ai_tools": ["copilot", "cursor", "tabnine", "codeium"]
-}
-```
-
-### **Alert System**
-```python
-# Set up trend alerts
-ALERTS = {
-    "technology_spike": "notify when mentions increase >200%",
-    "sentiment_change": "alert on major sentiment shifts",
-    "new_trend_detected": "flag emerging technologies"
-}
-```
-
-### **Data Export**
-```bash
-# Export trend data
-python scripts/export_data.py --format csv --date-range "2025-01-01,2025-01-31"
-
-# Generate custom reports
-python scripts/generate_report.py --template weekly --output pdf
 ```
 
 </details>
@@ -510,31 +443,6 @@ terraform apply
 
 </details>
 
-## ❓ FAQ
-
-<details>
-<summary>💬 Frequently Asked Questions</summary>
-
-### **Q: How accurate are the trend predictions?**
-A: Our AI model achieves ~85% accuracy on technology trend predictions based on historical data validation.
-
-### **Q: Can I track custom technologies?**
-A: Yes! Edit the `config/custom_trends.yaml` file to add your own keywords and technologies.
-
-### **Q: How much does it cost to run?**
-A: Approximately $130-190/month for full automation with professional-grade APIs and hosting.
-
-### **Q: Is this compliant with Twitter's terms?**
-A: Absolutely! We follow all Twitter automation guidelines and clearly identify the account as a bot.
-
-### **Q: Can I use this for commercial purposes?**
-A: Yes, the MIT license allows commercial use with attribution.
-
-### **Q: How do I contribute?**
-A: Check out our [Contributing Guidelines](CONTRIBUTING.md) - we love pull requests!
-
-</details>
-
 **Made with ❤️ by [Fedor Kriuk](https://github.com/fedorkriuk)**
 
 *Turning data into insights, one trend at a time* 🚀
@@ -546,9 +454,9 @@ A: Check out our [Contributing Guidelines](CONTRIBUTING.md) - we love pull reque
 <details>
 <summary>📧 Contact & Support</summary>
 
-- 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
-- 🐦 Twitter: [@your-handle](https://twitter.com/your-handle)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 Website: [your-website.com](https://your-website.com)
+- 📧 Email: [fedor.kriuk@student.uts.edu.au](mailto:fedor.kriuk@student.uts.edu.au)
+- 🐦 Twitter: [@fedorkriuk](https://x.com/fedorkriuk)
+- 💼 LinkedIn: [Fedor Kriuk](https://www.linkedin.com/in/fedorkriuk/)
+- 🌐 Website: [fedorkriuk.com](https://fedorkriuk.com/)
 
 </details>
