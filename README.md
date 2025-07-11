@@ -394,27 +394,6 @@ npm start
 
 </div>
 
-### 💰 **Revenue Projections**
-
-<details>
-<summary>📈 Conservative Growth Model</summary>
-
-| **Timeline** | **Customers** | **Avg Price** | **MRR** | **ARR** |
-|:---:|:---:|:---:|:---:|:---:|
-| **Months 1-3** | 0 | - | $0 | $0 |
-| **Months 4-6** | 10 | $99 | $990 | $11,880 |
-| **Months 7-12** | 50 | $199 | $9,950 | $119,400 |
-| **Year 2** | 200 | $299 | $59,800 | $717,600 |
-| **Year 3** | 500 | $399 | $199,500 | $2,394,000 |
-
-**Key Assumptions:**
-- 10% monthly growth rate after initial traction
-- 30% upgrade rate from Starter to Growth plans
-- 5% monthly churn rate (industry standard)
-- Average customer lifetime: 20 months
-
-</details>
-
 ### 🎯 **Customer ROI Calculator**
 
 ```python
