@@ -162,12 +162,12 @@ With The Hook Lab:
 
 | **Category** | **Technologies** |
 |:---:|:---:|
-| **Backend** | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-grey?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=white) |
-| **ML/AI** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-grey?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat-square&logo=pandas&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-grey?style=flat-square&logo=tailwind-css&logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-black?style=flat-square) |
-| **Integrations** | ![Stripe](https://img.shields.io/badge/-Stripe-grey?style=flat-square&logo=stripe&logoColor=white) ![Mixpanel](https://img.shields.io/badge/-Mixpanel-black?style=flat-square&logo=mixpanel&logoColor=white) ![Intercom](https://img.shields.io/badge/-Intercom-grey?style=flat-square&logo=intercom&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-37B24D?style=flat-square&logo=celery&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **ML/AI** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-8884D8?style=flat-square) |
+| **Integrations** | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Mixpanel](https://img.shields.io/badge/-Mixpanel-7A3FE4?style=flat-square&logo=mixpanel&logoColor=white) ![Intercom](https://img.shields.io/badge/-Intercom-1F8DED?style=flat-square&logo=intercom&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 </div>
 
