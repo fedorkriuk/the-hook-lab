@@ -1,14 +1,14 @@
- # 🎯 The Hook Lab
+# 🎯 The Hook Lab
 ### *AI-Powered Customer Churn Prediction for SaaS Companies*
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Predicting+Customer+Churn+with+AI;Save+60%25+of+At-Risk+Customers;ML-Powered+Revenue+Protection;The+Future+of+Customer+Retention)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Predicting+Customer+Churn+with+AI;Save+60%25+of+At-Risk+Customers;ML-Powered+Revenue+Protection;The+Future+of+Customer+Retention)
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-black.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-grey.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0+-black.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![License](https://img.shields.io/badge/License-MIT-grey.svg?style=for-the-badge)](LICENSE)
 
 [![GitHub stars](https://img.shields.io/github/stars/fedorkriuk/the-hook-lab?style=social)](https://github.com/fedorkriuk/the-hook-lab/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/fedorkriuk/the-hook-lab?style=social)](https://github.com/fedorkriuk/the-hook-lab/network)
@@ -42,11 +42,11 @@ graph TD
     G --> H[🔄 Model Improvement]
     H --> C
     
-    style A fill:#e3f2fd
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#ffebee
+    style A fill:#f5f5f5
+    style B fill:#e5e5e5
+    style C fill:#d5d5d5
+    style D fill:#c5c5c5
+    style E fill:#b5b5b5
 ```
 
 </div>
@@ -154,12 +154,12 @@ With The Hook Lab:
 
 | **Category** | **Technologies** |
 |:---:|:---:|
-| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-37B24D?style=flat-square&logo=celery&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **ML/AI** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-8884D8?style=flat-square) |
-| **Integrations** | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Mixpanel](https://img.shields.io/badge/-Mixpanel-7A3FE4?style=flat-square&logo=mixpanel&logoColor=white) ![Intercom](https://img.shields.io/badge/-Intercom-1F8DED?style=flat-square&logo=intercom&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-grey?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=white) |
+| **ML/AI** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-grey?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat-square&logo=pandas&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-grey?style=flat-square&logo=tailwind-css&logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-black?style=flat-square) |
+| **Integrations** | ![Stripe](https://img.shields.io/badge/-Stripe-grey?style=flat-square&logo=stripe&logoColor=white) ![Mixpanel](https://img.shields.io/badge/-Mixpanel-black?style=flat-square&logo=mixpanel&logoColor=white) ![Intercom](https://img.shields.io/badge/-Intercom-grey?style=flat-square&logo=intercom&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white) |
 
 </div>
 
@@ -509,7 +509,7 @@ pipeline = Pipeline([
 
 ### 📈 **Customer Risk Dashboard**
 
-![Dashboard Demo](https://via.placeholder.com/800x450/FF6B35/FFFFFF?text=🎯+Customer+Risk+Dashboard+📊)
+![Dashboard Demo](https://via.placeholder.com/800x450/000000/FFFFFF?text=🎯+Customer+Risk+Dashboard+📊)
 
 *Real-time churn risk monitoring with actionable insights*
 
@@ -992,9 +992,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎯 Ready to Reduce Churn by 60%?
 
-[![Get Started](https://img.shields.io/badge/🚀_Get_Started-Free_Trial-FF6B35?style=for-the-badge&logoColor=white)](https://hooklab.ai/signup)
-[![Book Demo](https://img.shields.io/badge/📅_Book_Demo-15_Min_Call-0066CC?style=for-the-badge&logoColor=white)](https://calendly.com/fedorkriuk/hooklab-demo)
-[![Join Discord](https://img.shields.io/badge/💬_Join_Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hook-lab)
+[![Get Started](https://img.shields.io/badge/🚀_Get_Started-Free_Trial-black?style=for-the-badge&logoColor=white)](https://hooklab.ai/signup)
+[![Book Demo](https://img.shields.io/badge/📅_Book_Demo-15_Min_Call-grey?style=for-the-badge&logoColor=white)](https://calendly.com/fedorkriuk/hooklab-demo)
+[![Join Discord](https://img.shields.io/badge/💬_Join_Discord-Community-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hook-lab)
 
 ### 💡 **Why Wait? Your Customers Are Churning Right Now**
 
@@ -1008,8 +1008,8 @@ Every day you delay is revenue walking out the door. The Hook Lab pays for itsel
 
 *Turning data into retained revenue, one prediction at a time* 🎯
 
-[![GitHub](https://img.shields.io/badge/GitHub-fedorkriuk-181717?style=social&logo=github)](https://github.com/fedorkriuk)
-[![Twitter](https://img.shields.io/badge/Twitter-@fedorkriuk-1DA1F2?style=social&logo=twitter)](https://twitter.com/fedorkriuk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fedor_Kriuk-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/fedorkriuk)
+[![GitHub](https://img.shields.io/badge/GitHub-fedorkriuk-black?style=social&logo=github)](https://github.com/fedorkriuk)
+[![Twitter](https://img.shields.io/badge/Twitter-@fedorkriuk-grey?style=social&logo=twitter)](https://twitter.com/fedorkriuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fedor_Kriuk-black?style=social&logo=linkedin)](https://linkedin.com/in/fedorkriuk)
 
 </div>
