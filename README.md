@@ -5,10 +5,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Predicting+Customer+Churn+with+AI;Save+60%25+of+At-Risk+Customers;ML-Powered+Revenue+Protection;The+Future+of+Customer+Retention)
 
-[![Python](https://img.shields.io/badge/Python-3.9+-black.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-grey.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0+-black.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-grey.svg?style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 [![GitHub stars](https://img.shields.io/github/stars/fedorkriuk/the-hook-lab?style=social)](https://github.com/fedorkriuk/the-hook-lab/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/fedorkriuk/the-hook-lab?style=social)](https://github.com/fedorkriuk/the-hook-lab/network)
