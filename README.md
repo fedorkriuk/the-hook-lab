@@ -42,19 +42,19 @@ graph TD
     G --> H[🔄 Model Improvement]
     H --> C
     
-    style A fill:#e5e5e5
-    style B fill:#e5e5e5
-    style C fill:#e5e5e5
-    style D fill:#e5e5e5
-    style E fill:#e5e5e5
-    style F fill:#e5e5e5
-    style G fill:#e5e5e5
-    style H fill:#e5e5e5
-    style A1 fill:#e5e5e5
-    style A2 fill:#e5e5e5
-    style A3 fill:#e5e5e5
-    style A4 fill:#e5e5e5
-    style A5 fill:#e5e5e5
+    style A fill:#2a2a2a,color:#ffffff
+    style B fill:#2a2a2a,color:#ffffff
+    style C fill:#2a2a2a,color:#ffffff
+    style D fill:#2a2a2a,color:#ffffff
+    style E fill:#2a2a2a,color:#ffffff
+    style F fill:#2a2a2a,color:#ffffff
+    style G fill:#2a2a2a,color:#ffffff
+    style H fill:#2a2a2a,color:#ffffff
+    style A1 fill:#2a2a2a,color:#ffffff
+    style A2 fill:#2a2a2a,color:#ffffff
+    style A3 fill:#2a2a2a,color:#ffffff
+    style A4 fill:#2a2a2a,color:#ffffff
+    style A5 fill:#2a2a2a,color:#ffffff
 ```
 
 </div>
