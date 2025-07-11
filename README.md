@@ -645,50 +645,6 @@ sls deploy --stage prod
 
 </details>
 
-## 💰 Financial Projections & Business Metrics
-
-### 📊 **Unit Economics**
-
-<table>
-<tr>
-<td width="50%">
-
-### 💸 **Cost Structure** (Monthly)
-- **AWS Infrastructure**: $200
-- **Third-party APIs**: $150  
-- **Support Tools**: $100
-- **Marketing/Sales**: $500
-- **Development**: $2,000 (part-time)
-- **Total OpEx**: $2,950/month
-
-### 📈 **Revenue Metrics**
-- **ARPU**: $299 (average revenue per user)
-- **CAC**: $400 (customer acquisition cost)
-- **LTV**: $5,980 (20-month average lifetime)
-- **LTV/CAC Ratio**: 14.95 (excellent)
-- **Gross Margin**: 85%
-
-</td>
-<td width="50%">
-
-### 🎯 **Growth Targets**
-| **Metric** | **Year 1** | **Year 2** | **Year 3** |
-|:---:|:---:|:---:|:---:|
-| **Customers** | 50 | 200 | 500 |
-| **MRR** | $10K | $60K | $200K |
-| **ARR** | $120K | $720K | $2.4M |
-| **Team Size** | 2 | 5 | 12 |
-
-### 💡 **Key Success Metrics**
-- **Net Revenue Retention**: >110%
-- **Monthly Churn Rate**: <5%
-- **Model Accuracy**: >85%
-- **Customer ROI**: >300%
-
-</td>
-</tr>
-</table>
-
 ## 🤝 Contributing
 
 We're building the future of customer retention! Here's how you can help:
@@ -757,36 +713,13 @@ git push origin feature/amazing-improvement
 
 | **Channel** | **Purpose** | **Response Time** |
 |:---:|:---:|:---:|
-| 📧 [Email](mailto:support@hooklab.ai) | Technical support & sales | 24 hours |
-| 💬 [Discord](https://discord.gg/hook-lab) | Community discussion | Real-time |
+| 📧 [Email](mailto:fedor.kriuk@student.uts.edu.au) | Technical support & sales | 24 hours |
 | 📱 [Twitter](https://twitter.com/fedorkriuk) | Updates & announcements | Daily |
 | 💼 [LinkedIn](https://linkedin.com/in/fedorkriuk) | Business inquiries | 48 hours |
 
 </div>
 
 ### 📚 **Documentation & Resources**
-
-<details>
-<summary>📖 Comprehensive Learning Resources</summary>
-
-**Getting Started:**
-- [Installation Guide](docs/installation.md)
-- [API Integration Tutorial](docs/integrations.md)
-- [Dashboard Walkthrough](docs/dashboard.md)
-
-**Advanced Topics:**
-- [ML Model Customization](docs/ml-customization.md)
-- [Custom Feature Engineering](docs/feature-engineering.md)
-- [Webhook Configuration](docs/webhooks.md)
-- [Enterprise Deployment](docs/enterprise.md)
-
-**Business Resources:**
-- [ROI Calculation Guide](docs/roi-guide.md)
-- [Churn Reduction Playbook](docs/playbook.md)
-- [Case Studies](docs/case-studies.md)
-- [Industry Benchmarks](docs/benchmarks.md)
-
-</details>
 
 ## 🛡️ Security & Compliance
 
@@ -823,10 +756,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 ## 🎯 Ready to Reduce Churn by 60%?
-
-[![Get Started](https://img.shields.io/badge/🚀_Get_Started-Free_Trial-black?style=for-the-badge&logoColor=white)](https://hooklab.ai/signup)
-[![Book Demo](https://img.shields.io/badge/📅_Book_Demo-15_Min_Call-grey?style=for-the-badge&logoColor=white)](https://calendly.com/fedorkriuk/hooklab-demo)
-[![Join Discord](https://img.shields.io/badge/💬_Join_Discord-Community-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hook-lab)
 
 ### 💡 **Why Wait? Your Customers Are Churning Right Now**
 
