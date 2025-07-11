@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Predicting+Customer+Churn+with+AI;Save+60%25+of+At-Risk+Customers;ML-Powered+Revenue+Protection;The+Future+of+Customer+Retention)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Predicting+Customer+Churn+with+AI;Save+60%25+of+At-Risk+Customers;ML-Powered+Revenue+Protection;The+Future+of+Customer+Retention)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-black.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-grey.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
