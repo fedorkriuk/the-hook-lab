@@ -279,13 +279,6 @@ graph TB
     MLP --> API
     WF --> WH
     
-    style DS1 fill:#e3f2fd
-    style DS2 fill:#e8f5e8
-    style DS3 fill:#fff3e0
-    style DS4 fill:#fce4ec
-    style MLT fill:#f3e5f5
-    style MLP fill:#f3e5f5
-    style RS fill:#ffebee
 ```
 
 </div>
