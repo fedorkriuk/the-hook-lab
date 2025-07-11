@@ -719,8 +719,6 @@ git push origin feature/amazing-improvement
 
 </div>
 
-### 📚 **Documentation & Resources**
-
 ## 🛡️ Security & Compliance
 
 <details>
