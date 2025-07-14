@@ -1,135 +1,151 @@
-# 🚀 TrendBot – Tech Trend Analysis MVP
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org)
-[![Status](https://img.shields.io/badge/Build-Active-green)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-<marquee behavior="scroll" direction="left" scrollamount="6">🤖 AI-powered bot that collects, analyzes, visualizes, and publishes tech trends from Twitter, GitHub, Reddit & Hacker News – in real time.</marquee>
-
----
-
-## 🌐 Overview
-
 ```
-💡 TrendBot is a modular AI system that:
-──────────────────────────────────────────
-📡 Collects real-time tech trends
-🧠 Analyzes sentiment & relevance via OpenAI
-📊 Visualizes patterns with interactive dashboards
-🐦 Publishes insights as Twitter threads
+████████╗██████╗ ██████╗ ██╗   ██╗███████╗████████╗ ██████╗ ██████╗ ████████╗
+╚══██╔══╝██╔══██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚══██╔══╝
+   ██║   ██████╔╝██████╔╝██║   ██║█████╗     ██║   ██║   ██║██████╔╝   ██║   
+   ██║   ██╔══██╗██╔═══╝ ██║   ██║██╔══╝     ██║   ██║   ██║██╔══██╗   ██║   
+   ██║   ██║  ██║██║     ╚██████╔╝███████╗   ██║   ╚██████╔╝██║  ██║   ██║   
+   ╚═╝   ╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
 ```
 
----
-
-## ⚙️ What It Does
-
-TrendBot is a modular pipeline that:
-- 📡 **Collects** real-time trends from Twitter, GitHub, Reddit, Hacker News
-- 🧠 **Analyzes** trends using OpenAI's GPT-3.5-turbo
-- 📊 **Visualizes** insights via interactive dashboards
-- 🐦 **Publishes** Twitter threads with automated content validation
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F8A9&width=800&lines=🤖+AI-powered+bot+that+collects,+analyzes,+visualizes,+and+publishes+tech+trends+from+Twitter,+GitHub,+Reddit+%26+Hacker+News+—+in+real+time." alt="Typing SVG"/>
+</div>
 
 ---
 
-## 🎯 Architecture
+## 🌐 Meet TrendBot
+
+> A full-stack automation agent that:
+> - 🕵️‍♂️ Monitors real-time developer chatter
+> - 🧠 Uses GPT-3.5 to extract insights
+> - 📊 Visualizes patterns and sentiment
+> - 🐦 Posts Twitter threads to amplify the signal
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYKDrs8f0zMPbda/giphy.gif" width="480" alt="Detecting Trends"/>
+  <br/>
+  <em>Spotting what matters before the rest of the internet does.</em>
+</div>
+
+---
+
+## 🧠 Why This Bot?
+
+In the era of AI, developer noise is high — but signal is buried.  
+TrendBot surfaces **what’s new**, **what’s hot**, and **what’s meaningful**.
+
+Perfect for:
+- 📰 Tech content creators
+- 📈 Market analysts
+- 🧪 Experimenters
+- 🤖 Automation geeks
+
+---
+
+## 🧪 Features at a Glance
+
+| ✨ Feature        | 🔧 Description |
+|------------------|----------------|
+| 🌐 Multi-Source  | Collects from Twitter, GitHub, Reddit, Hacker News |
+| 🧠 AI-Powered    | GPT-3.5 turbo for trend extraction & summarization |
+| 📊 Dashboards    | Interactive Plotly visualizations with exports |
+| 🐦 Twitter Bot   | Auto-posts threads with safety validation |
+| 📆 Scheduling     | APScheduler manages full-cycle jobs |
+| 🔐 Safe & Compliant | Rate-limited, filtered, API-compliant |
+
+---
+
+## 🧬 Architecture
 
 ```
-+-----------------+      +------------------+      +-------------------+
-|  Data Sources   | ---> |   Data Collector | ---> |   SQLite Database |
-| (Twitter, etc.) |      +------------------+      +-------------------+
-        |                                              |
-        v                                              v
-+------------------+      +------------------+      +-------------------+
-|   AI Analyzer    | ---> |   Visualizer     | ---> |    Publisher      |
-| (OpenAI + Rules) |      | (Plotly Charts)  |      |  (Twitter Bot)    |
-+------------------+      +------------------+      +-------------------+
+     ┌────────────┐
+     │  Sources   │  ←── Twitter, GitHub, Reddit, HN
+     └────┬───────┘
+          │
+     ┌────▼──────┐
+     │ Collector │  ←── with rate limiting & filters
+     └────┬──────┘
+          │
+     ┌────▼──────┐
+     │ Database  │  ←── local SQLite storage
+     └────┬──────┘
+          │
+     ┌────▼──────┐
+     │ Analyzer  │  ←── GPT-3.5 turbo + moderation
+     └────┬──────┘
+          │
+     ┌────▼──────┐
+     │ Visualizer│  ←── Plotly dashboards (HTML export)
+     └────┬──────┘
+          │
+     ┌────▼──────┐
+     │ Publisher │  ←── Twitter thread poster
+     └───────────┘
 ```
 
 ---
 
-## 🧪 Features
+## 🎥 TrendBot in Action
 
-### 📡 Data Collection
-- Multi-source integration (Twitter, GitHub, Reddit, Hacker News)
-- Real-time monitoring with rate-limiting & fallback logic
-- Engagement scoring & topic ranking
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZsUk0nU5efLP4go/giphy.gif" width="420" alt="GPT Analysis"/>
+  <br/><sub><strong>Analyzing trends with GPT-3.5 for insight & sentiment</strong></sub>
+</div>
 
-### 🧠 AI-Powered Analysis
-- GPT-3.5-turbo for trend insights and sentiment scoring
-- PII and NSFW content filtering
-- Contextual summaries & relevance scoring
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohzdU6vJgdS6f3y5K/giphy.gif" width="420" alt="Visualization Demo"/>
+  <br/><sub><strong>Generating interactive dashboards with Plotly</strong></sub>
+</div>
 
-### 📊 Visualization
-- **Interactive charts** powered by Plotly
-- Timelines, source breakdowns, topic maps
-- HTML export for dashboards
-
-### 🐦 Auto Publishing
-- Twitter thread creation with safety validation
-- Rate-limited, policy-compliant automation
-- Scheduled publishing at multiple times daily
+<div align="center">
+  <img src="https://media.giphy.com/media/l2R06KX6dJPi3Xjk8/giphy.gif" width="420" alt="Twitter Posting"/>
+  <br/><sub><strong>Auto-posting threads that summarize your daily trends</strong></sub>
+</div>
 
 ---
 
-## ⚡ Quickstart
+## 🚀 Quick Start
 
-### 📥 Clone & Install
+### 1️⃣ Clone the project
 ```bash
 git clone https://github.com/fedorkriuk/the-hook-lab.git
 cd the-hook-lab
+```
+
+### 2️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
 ```
 
-### ⚙️ Setup `.env`
-Create a `.env` file and configure your keys:
-```env
-TWITTER_BEARER_TOKEN=your_token
-OPENAI_API_KEY=your_openai_key
-REDDIT_CLIENT_ID=your_client_id
-...
+### 3️⃣ Create `.env`
+```bash
+cp .env.example .env  # then fill in your API keys
 ```
 
----
-
-## ▶️ Run the Bot
-
-### 🔁 Full Cycle Mode
+### 4️⃣ Run a full cycle
 ```bash
 python main.py --mode single
 ```
 
-### ⏱️ Scheduled Mode
+### 🔄 Or run continuously
 ```bash
 python main.py --mode scheduled
 ```
 
-### ⚙️ Other Modes
+---
+
+## 🔧 Modes Available
+
 ```bash
-python main.py --mode collect    # Only collect
-python main.py --mode analyze    # Analyze trends
-python main.py --mode publish    # Tweet analysis
-python main.py --mode status     # Bot status
+python main.py --mode collect     # Just collect data
+python main.py --mode analyze     # Analyze last 24 hours
+python main.py --mode publish     # Tweet it out
+python main.py --mode status      # See what the bot's doing
 ```
 
 ---
 
-## 📁 File Structure
-
-```
-the-hook-lab/
-├── main.py               # Entrypoint
-├── collectors/           # API scrapers
-├── analyzer/             # GPT integration
-├── visualizer/           # Plotly dashboards
-├── publisher/            # Twitter logic
-├── scheduler.py          # Job manager
-├── .env.example          # Sample config
-└── requirements.txt
-```
-
----
-
-## 💻 Developer API
+## 🧰 Dev Interface
 
 ```python
 from main import TrendBot
@@ -143,50 +159,20 @@ bot.publish_analysis()
 
 ---
 
-## 🧰 Tech Stack
+## 📁 Project Structure
 
-- 🐍 Python 3.10+
-- 🤖 OpenAI GPT-3.5
-- 📊 Plotly + Kaleido
-- 🗃️ SQLite
-- 🌐 Tweepy, Reddit (PRAW), GitHub API
-- 🕒 APScheduler
-
----
-
-## 🧼 Clean & Compliant
-
-- ✅ Twitter automation policy compliance
-- ✅ Rate limit awareness
-- ✅ PII detection & filtering
-- ✅ Local storage only
-
----
-
-## 📄 License
-
-MIT License • [See LICENSE](LICENSE)
-
----
-
-## 🤝 Contribute
-
-PRs welcome! Fork, create a branch, and submit changes with docs/tests:
-```bash
-pip install -r requirements-dev.txt
-black *.py
-python -m pytest
+```
+📦 the-hook-lab/
+├── main.py               # Entrypoint & CLI
+├── collectors/           # Twitter, Reddit, GitHub, HN
+├── analyzer/             # GPT-powered processing
+├── visualizer/           # Plotly chart generation
+├── publisher/            # Twitter automation
+├── scheduler.py          # Job runner
+├── .env.example          # Template config
+└── requirements.txt
 ```
 
 ---
 
-## ✨ Coming Soon
-
-- Slack/Discord integration
-- Streamlit dashboard mode
-- Multi-language support
-- ML model comparison engine
-
----
-
-> 🧪 MVP build by [@fedorkriuk](https://github.com/fedorkriuk) — designed for experimentation and insight, not production scale (yet).
+## 🔐 Security
