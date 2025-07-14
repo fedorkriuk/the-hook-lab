@@ -1,0 +1,18 @@
+# Environment and secrets
+.env
+*.log
+__pycache__/
+*.pyc
+*.pyo
+data/*.db
+data/logs/
+fresh-env/
+trend-bot-*/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Charts (optional - you might want to keep these)
+data/charts/*.png
