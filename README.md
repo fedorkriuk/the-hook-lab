@@ -4,15 +4,20 @@
 [![Status](https://img.shields.io/badge/Build-Active-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 🧠 **AI-powered bot** that collects, analyzes, visualizes, and publishes **technology trends** from Twitter, GitHub, Reddit, and Hacker News — in real time.
+<marquee behavior="scroll" direction="left" scrollamount="6">🤖 AI-powered bot that collects, analyzes, visualizes, and publishes tech trends from Twitter, GitHub, Reddit & Hacker News – in real time.</marquee>
 
 ---
 
 ## 🌐 Overview
 
-<div align="center">
-  <img src="https://github.com/fedorkriuk/the-hook-lab/assets/placeholder-bot-preview.gif" alt="TrendBot Animation" width="600"/>
-</div>
+```
+💡 TrendBot is a modular AI system that:
+──────────────────────────────────────────
+📡 Collects real-time tech trends
+🧠 Analyzes sentiment & relevance via OpenAI
+📊 Visualizes patterns with interactive dashboards
+🐦 Publishes insights as Twitter threads
+```
 
 ---
 
@@ -58,10 +63,6 @@ TrendBot is a modular pipeline that:
 - **Interactive charts** powered by Plotly
 - Timelines, source breakdowns, topic maps
 - HTML export for dashboards
-
-<div align="center">
-  <img src="https://github.com/fedorkriuk/the-hook-lab/assets/sample-dashboard-preview.png" width="600" alt="Dashboard Preview">
-</div>
 
 ### 🐦 Auto Publishing
 - Twitter thread creation with safety validation
