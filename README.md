@@ -7,10 +7,6 @@
    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝   ╚═╚══════╝╚═╝  ╚═══╝╚═════╝     ╚═╝═══╝  ╚═════╝    ╚═╝   
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F8A9&width=800&lines=🤖+AI-powered+bot+that+collects,+analyzes,+visualizes,+and+publishes+tech+trends+from+Twitter,+GitHub,+Reddit+%26+Hacker+News+—+in+real+time." alt="Typing SVG"/>
-</div>
-
 ---
 
 # 🚀 TrendBot – Tech Trend Analysis MVP
