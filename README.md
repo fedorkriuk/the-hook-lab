@@ -9,7 +9,7 @@
 
 ---
 
-# 🚀 TrendBot – Tech Trend Analysis MVP
+# 🚀 TrendBot – Tech Trend Analysis Open-Source MVP
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org)
 [![Status](https://img.shields.io/badge/Status-Active-green)]()
