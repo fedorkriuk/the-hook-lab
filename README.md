@@ -24,6 +24,10 @@
 
 ---
 
+> ⚠️ **Note:** This is an open-source MVP of TrendBot. In the future, advanced analysis components may become closed-source or proprietary as the project evolves.
+
+---
+
 ## 🌍 What is TrendBot?
 
 > **TrendBot** is a full-stack, AI-powered automation tool that continuously tracks what's trending across dev platforms — turns it into intelligent insights — and shares it with the world.
