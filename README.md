@@ -52,13 +52,12 @@ Perfect for:
 ## 🧠 Architecture
 
 ```
-+-----------+       +-------------+      +-------------+      +-------------+
-|  Sources  | --->  |  Collector  | ---> |   Analyzer  | ---> |  Visualizer |
-| (APIs)    |       +-------------+      +-------------+      +-------------+
-                    |                                    |
-                    +--> SQLite DB <--+     +---------+ |
-                                       +--> | Publisher |
-                                            +---------+
+Data Sources → Collector → Database → Analyzer → Visualizer
+                    ↓                      ↓
+              Rate Limiting          AI Analysis
+                    ↓                      ↓
+              Content Filter        Publisher → Twitter
+
 ```
 
 ---
